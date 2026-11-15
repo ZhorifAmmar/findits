@@ -1,17 +1,19 @@
-# findits
+# FindIts
 
-A new Flutter project.
+Aplikasi mobile komunitas untuk melaporkan barang hilang dan barang temuan di lingkungan kampus ITS.
 
-## Getting Started
+Kelompok 3 · Teknologi Berkembang 2026/2027 · Departemen Sistem Informasi ITS
 
-This project is a starting point for a Flutter application.
+## Anggota
+- Rafi Zhafran Putra Wibowo (5026231127)
+- Dzakiyyah Nur (5026231191)
+- Hafidzal Raynandra (5026231117)
+- Zhorif Ammar Ayyasy (5026241006)
+- Balindra Adisakti (5026231056)
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi
+Flutter (Dart), Supabase, flutter_map
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Menjalankan
+    flutter pub get
+    flutter run
